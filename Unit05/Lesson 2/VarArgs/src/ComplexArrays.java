@@ -1,5 +1,12 @@
+import java.util.Arrays;
+
 public class ComplexArrays {
-    
+    public static void main(String[] args) throws Exception {
+
+
+
+        
+}
 }
 
 
