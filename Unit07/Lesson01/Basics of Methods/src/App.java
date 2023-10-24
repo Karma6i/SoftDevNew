@@ -10,7 +10,7 @@ public class App {
 
     public static final double inchesToMeters(double inches){
             return inches * 0.0254;
-            return getMeters ; //TODO: Actually figure out the meters and return the number
+            return getMeters; //TODO: Actually figure out the meters and return the number
         }
 
     }
