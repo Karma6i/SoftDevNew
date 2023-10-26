@@ -36,7 +36,7 @@ public class Position {
 
 
 
-//assignment method. converting decimal feet to meters
+//assignment: method. converting decimal feet to meters
 
 
     public static private Position fromFeet(double feet){
